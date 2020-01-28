@@ -20,6 +20,7 @@ Blogs:
 ------
 1. https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 2. https://www.tutorialspoint.com/flask/index.htm
+3. https://pythonhosted.org/Flask-paginate/
 
 
 
