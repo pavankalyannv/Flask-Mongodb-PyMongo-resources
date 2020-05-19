@@ -24,15 +24,15 @@ Blogs:
 
 
 
-Restful API flask,Mongodb
+Flask Restful API ,Mongodb
 ----------------
 1.https://flask-restful.readthedocs.io/en/latest/api.html
 2. https://codehandbook.org/creating-rest-api-using-python-mongodb/
 3.https://codehandbook.org/pymongo-tutorial-crud-operation-mongodb/
 
 
-PyMongo tuts
---------------
+PyMongo Tutorials Official docs
+-------------------------------
 https://api.mongodb.com/python/current/tutorial.html
 
 
@@ -45,4 +45,5 @@ Mongo atlas (local host -developing & testing purpose)
 
 I will add and sort gradually when i found anything new & good for me , if you find anything good 
 share me the link so that i can update it !! 
+
 
